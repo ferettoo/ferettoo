@@ -1,4 +1,7 @@
-### Hi there 👋
+:coffee:
+
+:wave: Hi! I'm Facu a Stundent who likes learn new programming leanguages, actualy im learning JavaScript with the vue.js framework.
+I am also learning PHP with the Lavarel framework.
 
 <!--
 **ferettoo/ferettoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
