@@ -1,7 +1,6 @@
 :coffee:
 
-:wave: Hi! I'm Facu a Stundent who likes learn new programming languages, actually im learning JavaScript with the vue.js framework.
-I am also learning PHP with the Lavarel framework.
+:wave: Hi! I'm Facu, a student who likes to learn new programming languages. Currently, I'm learning JavaScript with the Vue.js framework. I am also learning PHP with the Laravel framework.
 
 <!--
 **ferettoo/ferettoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
